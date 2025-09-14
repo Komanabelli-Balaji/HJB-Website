@@ -1,6 +1,94 @@
 {
     "hcms": [
         {
+            "year": 2026,
+            "imgSrc": "/assets/hcm26/Bhavesh.jpeg",
+            "name": "Bhavesh Pabnani",
+            "position": "Hall President",
+            "f_link": "https://www.facebook.com/profile.php?id=100087666813728",
+            "in_link": "https://www.linkedin.com/in/bhavesh-pabnani-97a033250/",
+            "email_link": "mailto:bhaveshpabnani@gmail.com"
+        }, {
+            "year": 2026,
+            "imgSrc": "/assets/hcm26/BojjaManish.jpeg",
+            "name": "Bojja Manish",
+            "position": "Second Senate Member",
+            "f_link": "https://www.facebook.com/manishkumar.b.31",
+            "in_link": "https://www.linkedin.com/in/bojja-manish-44a7bb254/",
+            "email_link": "mailto:manishbojja56@gmail.com"
+        }, {
+            "year": 2026,
+            "imgSrc": "/assets/hcm26/Balaji.jpg",
+            "name": "Komanabelli Balaji",
+            "position": "General Secretary Alumni Affairs",
+            "f_link": "https://www.facebook.com/profile.php?id=100095422069762",
+            "in_link": "https://www.linkedin.com/in/balaji-komanabelli-529683293/",
+            "email_link": "mailto:balajikomanabelli67@gmail.com"
+        }, {
+            "year": 2026,
+            "imgSrc": "/assets/hcm26/Anubhav.jpg",
+            "name": "Anubhav Jha",
+            "position": "General Secretary Social and Cultural",
+            "f_link": "",
+            "in_link": "https://www.linkedin.com/in/anubhavjha011/",
+            "email_link": "mailto:predestination5682@gmail.com"
+        }, {
+            "year": 2026,
+            "imgSrc": "/assets/hcm26/Daksh.jpg",
+            "name": "Daksh Sargiya",
+            "position": "General Secretary Technology",
+            "f_link": "https://www.facebook.com/share/14M4VawPLBm/",
+            "in_link": "https://www.linkedin.com/in/daksh-sargiya-b6aa14297/",
+            "email_link": "mailto:dakshsargiya2005@gmail.com"
+        }, {
+            "year": 2026,
+            "imgSrc": "/assets/hcm26/Namanya.jpg",
+            "name": "Namanya Pant",
+            "position": "General Secretary Sports and Games",
+            "f_link": "https://www.facebook.com/people/Namanya-Pant/61557729866848/",
+            "in_link": "https://www.linkedin.com/in/namanya-pant/",
+            "email_link": "mailto:namanyapant2630@gmail.com"
+        }, {
+            "year": 2026,
+            "imgSrc": "/assets/hcm26/Sourav.jpg",
+            "name": "Sourav Upadhyay",
+            "position": "General Secretary Student's Welfare",
+            "f_link": "https://www.facebook.com/sourav.upadhyay.37853",
+            "in_link": "https://www.linkedin.com/in/sourav-upadhyay-585ba5232/",
+            "email_link": "mailto:sourav.upadhyay0304@gmail.com"
+        }, {
+            "year": 2026,
+            "imgSrc": "/assets/hcm26/Jay.jpg",
+            "name": "Jay Kumar",
+            "position": "General Secretary Maintenance",
+            "f_link": "https://www.facebook.com/share/1D5qtCbdwm/?mibextid=wwXIfr",
+            "in_link": "https://www.linkedin.com/in/jay-kumar-44080b29b/",
+            "email_link": "mailto:321jaysingh993@gmail.com"
+        }, {
+            "year": 2026,
+            "imgSrc": "/assets/hcm26/Shine.jpg",
+            "name": "Shine Shrivastav",
+            "position": "General Secretary Maintenance",
+            "f_link": "https://www.facebook.com/shinecty/",
+            "in_link": "https://www.linkedin.com/in/shine-srivastava/",
+            "email_link": "mailto:shine.srivastava2002@gmail.com"
+        }, {
+            "year": 2026,
+            "imgSrc": "/assets/hcm26/Himanshu.jpg",
+            "name": "Himanshu Sheoran",
+            "position": "General Secretary Mess",
+            "f_link": "",
+            "in_link": "https://www.linkedin.com/in/himanshu-sheoran-34538528b",
+            "email_link": "mailto:himanshusheoran174@gmail.com"
+        }, {
+            "year": 2026,
+            "imgSrc": "/assets/hcm26/Anand.jpg",
+            "name": "Anand Aryan",
+            "position": "General Secretary Mess",
+            "f_link": "",
+            "in_link": "https://www.linkedin.com/in/anand-aryan-266568289?",
+            "email_link": "mailto:anand.a_23@kgpian.iitkgp.ac.in"
+        }, {
             "year": 2025,
             "imgSrc": "/assets/hcm25/jyothiraditya.jpg",
             "name": "SSVKSS Jyothiraditya",
