@@ -90,12 +90,15 @@ body{
 }
 
 .modal img{
-    width:min(80%,800px);
-    height:76%;
+    max-width:min(80%,800px);
+    max-height:76vh;
+    width: auto;
+    height: auto;
     display: block;
     margin-inline:auto;
     margin-block-start:1.5em;
     animation: zoom 0.3s linear;
+    object-fit: contain;
 }
 
 @keyframes zoom {
