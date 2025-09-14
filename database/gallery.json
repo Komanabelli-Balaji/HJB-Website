@@ -588,5 +588,57 @@
                 }
             ]
         }
+    },
+    "2026": {
+        "janmashtami":{
+            "title": "Janmashtami",
+            "data": [
+                {
+                    "src": "/assets/gallery26/Janmashtami/J261.jpg",
+                    "alt": "janmashtami-celebrations"
+                },
+                {
+                    "src": "/assets/gallery26/Janmashtami/J262.jpg",
+                    "alt": "janmashtami-celebrations"
+                },
+                {
+                    "src": "/assets/gallery26/Janmashtami/J263.jpg",
+                    "alt": "janmashtami-celebrations"
+                },
+                {
+                    "src": "/assets/gallery26/Janmashtami/J264.jpg",
+                    "alt": "janmashtami-celebrations"
+                },
+                {
+                    "src": "/assets/gallery26/Janmashtami/J265.jpg",
+                    "alt": "janmashtami-celebrations"
+                }
+            ]
+        },
+        "independence":{
+            "title": "Independence Day",
+            "data": [
+                {
+                    "src": "/assets/gallery26/Independence Day/ID261.jpg",
+                    "alt": "independence-day"
+                },
+                {
+                    "src": "/assets/gallery26/Independence Day/ID262.jpg",
+                    "alt": "independence-day"
+                },
+                {
+                    "src": "/assets/gallery26/Independence Day/ID263.jpg",
+                    "alt": "independence-day"
+                },
+                {
+                    "src": "/assets/gallery26/Independence Day/ID264.jpg",
+                    "alt": "independence-day"
+                },
+                {
+                    "src": "/assets/gallery26/Independence Day/ID265.jpg",
+                    "alt": "independence-day"
+                }
+            ]
+        }
     }
 }
